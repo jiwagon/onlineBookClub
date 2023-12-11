@@ -7,6 +7,8 @@ import java.sql.ResultSet;
 
 import java.sql.*;
 
+public class dbConnect {
+
     String queryString;
     ResultSet rs;
     Connection conn;
